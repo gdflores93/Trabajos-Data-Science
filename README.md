@@ -21,3 +21,5 @@
 *9* Proyecto final primera entrega
 
 *10* Clasificación con Arbol de Decisión
+
+*11* Entrega Final de Proyecto
